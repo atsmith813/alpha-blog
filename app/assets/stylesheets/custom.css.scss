@@ -89,7 +89,7 @@ $navbar-default-bg: black;
 }
 
 footer {
-	margin-top: 45px;
+	margin-top: 5px;
 	padding-top: 5px;
 	border-top: 1px solid #eaeaea;
 	color: #777;
@@ -111,6 +111,7 @@ footer ul {
 footer ul li {
 	float: left;
 	margin-left: 15px;
+	padding-top: -5px;
 }
 
 
