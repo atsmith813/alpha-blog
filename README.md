@@ -1,6 +1,6 @@
 # Alpha Blog
 This is my very first Ruby on Rails project to get myself more familiar with
-many concepts of web development. This is far from great, but eveyrone starts
+many concepts of web development. This is far from great, but everyone starts
 somewhere!
 
 ## Concepts/tools/lessons
@@ -15,7 +15,7 @@ somewhere!
 * Templates/layouts/partials
 * DevOps using Heroku (deployments, environment variables, cron jobs, etc.)
 * Passwords and security
-* User signups/registrations
+* User sign ups/registrations
 * Paginating views
 * User session management
 * Authentication methods
